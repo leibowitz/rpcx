@@ -20,7 +20,7 @@ When we talk about RPC frameworks, Dubbo is the first framework we should mentio
 Dubbo has been widely used in e-commerce companies in China, for example, Alibaba, Jingdong and Dangdang.
 
 Though Dubbo still uses Spring 2.5.6.SEC03, and is no longer supported by Alibaba, 
-some other companies still usea it and maintain their own branches.
+some other companies still use it and maintain their own branches.
 
 > DUBBO is a distributed service framework , provides high performance and transparent RPC remote service call. 
 > It is the core framework of Alibaba SOA service governance programs. 
